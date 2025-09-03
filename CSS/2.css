@@ -1,0 +1,37 @@
+/*Selectores*/
+/*Selectores universales*/
+
+*{
+    color: coral;
+}
+
+h1{
+    color: chartreuse;
+}
+
+p{
+    color: cornflowerblue;
+}
+
+/*Selectores por clase*/
+
+.titulo{
+    color: crimson;
+}
+
+.parrafo{
+    color: darkorchid;
+}
+
+/*Selectores por ID*/
+#titulo{
+    color: darkorange;
+}
+
+#parrafo{
+    color: brown;
+}
+
+/*selectores por atributos*/
+
+
